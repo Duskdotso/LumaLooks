@@ -8,7 +8,7 @@ quick message from me! to install this, you need to download the zip in releases
 
 This repository is **not an original implementation** of the Excalibur shader system.
 
-The code in this repository was taken from the shader-system portion of **Excalibur**, a closed-source paid mod. I am **not claiming authorship of that code**, and this repository is not affiliated with or endorsed by the original Excalibur developer.
+The code in this repository was taken from the shader-system portion of **[Excalibur](https://excaliburgtag.com/)**, a closed-source paid mod. I am **not claiming authorship of that code**, and this repository is not affiliated with or endorsed by the original Excalibur developer.
 
 Please refer to the original project's licensing and distribution terms before using, modifying, or redistributing this code.
 
@@ -58,7 +58,7 @@ The purpose of this project was therefore **not to claim that the shader system 
 
 ## Attribution
 
-The original shader-system code originated from **Excalibur**.
+The original shader-system code originated from **[Excalibur](https://excaliburgtag.com/)**.
 
 I did not create the original shader system and make no claim of ownership over it.
 
@@ -70,6 +70,8 @@ If you are the original author or rights holder and have concerns regarding the 
 
 This project is provided for informational and experimental purposes.
 
-**Excalibur** and any associated names, code, trademarks, or other intellectual property remain the property of their respective owners.
+**[Excalibur](https://excaliburgtag.com/)** and any associated names, code, trademarks, or other intellectual property remain the property of their respective owners.
 
 No affiliation with, sponsorship by, or endorsement from the original Excalibur developer is implied.
+
+Furthermore, to respect the original developer(s) of Excalibur, please do not reuse any of this code! Plus, it's AI slop, so I'd hope you wouldn't want to in the first place!
