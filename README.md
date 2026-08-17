@@ -1,6 +1,7 @@
 # Excalibur Shader System (LumaLooks) — Standalone
 
 > **This README was written by AI (GPT-5.6 Luna) :D**
+quick message from me! to install this, you need to download the zip in releases, extract it, and drag the resulting folder into your plugins! :P
 
 ## ⚠️ Important Notice
 
