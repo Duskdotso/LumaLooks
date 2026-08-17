@@ -6,9 +6,9 @@ quick message from me! to install this, you need to download the zip in releases
 
 ## ⚠️ Important Notice
 
-This repository is **not an original implementation** of the Excalibur shader system.
+This repository is **not an original implementation** of the Excalibur shader system (LumaLooks).
 
-The code in this repository was taken from the shader-system portion of **[Excalibur](https://excaliburgtag.com/)**, a closed-source paid mod. I am **not claiming authorship of that code**, and this repository is not affiliated with or endorsed by the original Excalibur developer.
+The code in this repository was taken from the shader-system portion of **[Excalibur](https://excaliburgtag.com/)**, a closed-source paid mod. I am **not claiming authorship of that code**, and this repository is not affiliated with or endorsed by the original Excalibur developer(s).
 
 Please refer to the original project's licensing and distribution terms before using, modifying, or redistributing this code.
 
@@ -18,7 +18,7 @@ This repository contains a standalone version of the **shader system from Excali
 
 The goal was to make the shader system functional without the additional DLLs and other components that Excalibur normally requires.
 
-In doing so, AI tools were used extensively to help analyze the existing code and get the shader system functioning independently.
+In doing so, AI tools were used extensively to help analyze the existing code and get the shader system functioning independently, as I don't have the motivation to fix 1000+ errors.
 
 ### What Is Included
 
