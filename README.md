@@ -36,7 +36,7 @@ This project is specifically focused on the shader system and does not contain t
 
 While examining the original Excalibur code, I noticed several references that appear to be associated with **Claude/Anthropic tooling**, including references to a Claude-related path under the user's AppData directory.
 
-For example, one such reference occurs around **`[RenderEngine.cs](https://github.com/Duskdotso/LumaLooks/blob/main/Excalibur.ProPlus/LumaLooks/RenderEngine.cs#L2018)`, line 2018**, with several other locations containing similar references.
+For example, one such reference occurs around **[RenderEngine.cs](https://github.com/Duskdotso/LumaLooks/blob/main/Excalibur.ProPlus/LumaLooks/RenderEngine.cs#L2018), line 2018**, with several other locations containing similar references.
 
 These observations led me to suspect that at least portions of the shader system may have been developed with AI assistance.
 
