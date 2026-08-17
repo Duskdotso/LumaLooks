@@ -2,7 +2,7 @@
 
 > **This README was written by AI (GPT-5.6 Luna) :D**
 
-quick message from me! to install this, you need to download the zip in releases, extract it, and drag the resulting folder into your plugins! :P
+quick message from me! to install this, you need to download the zip in releases, extract it, and drag the resulting folder into your plugins! im also ***not*** the original person to get this mod! im only the messenger! :P
 
 ## ⚠️ Important Notice
 
