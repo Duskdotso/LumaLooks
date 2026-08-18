@@ -32,6 +32,8 @@ In doing so, AI tools were used extensively to help analyze the existing code an
 
 This project is specifically focused on the shader system and does not contain the camera-mod portion of Excalibur.
 
+![what the shaders look like](LumaLooks.png)
+
 ## Observations About the Original Code
 
 While examining the original Excalibur code, I noticed several references that appear to be associated with **Claude/Anthropic tooling**, including references to a Claude-related path under the user's AppData directory.
